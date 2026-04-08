@@ -19,5 +19,14 @@
     "dotenv": "^17.2.3",
     "langchain": "^1.2.7",
     "zod": "^4.3.5"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Echo-Mares/AI-agent-learning.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Echo-Mares/AI-agent-learning/issues"
+  },
+  "homepage": "https://github.com/Echo-Mares/AI-agent-learning#readme"
 }
